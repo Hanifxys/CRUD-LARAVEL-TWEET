@@ -1,7 +1,3 @@
-Tentu! Berikut adalah README yang telah diperbarui dengan sedikit dokumentasi singkat yang menarik:
-
----
-
 # Tweet App
 
 ![Tweet App](https://github.com/Hanifxys/CRUD-LARAVEL-TWEET/assets/135254497/63220b44-e39c-422a-b253-54e9dc832461)
